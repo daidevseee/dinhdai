@@ -1,0 +1,17 @@
+{
+    "URL_SERVER": "http://15.235.144.59:30120",
+    "SERVER_NAME": "RGF SERVER |Pay To Win metasever",
+    "SERVER_LOGO": "http://i.memeful.com/media/post/jRLkW4M_700wa_0.gif",
+    "PERMISSION": "MANAGE_MESSAGES",
+    "BOT_TOKEN": "MTAxMTg1MzQ2NjYzNDgxMzQ2MA.G6SvnA.H4-U9fqDJF4PADl1QMhVngD0uWx3m72paXipXc",
+    "CHANNEL_ID": "1034497940095500288",
+    "MESSAGE_ID": "1034500235487096952",
+    "SUGGESTION_CHANNEL": "MANAGE_MESSAGES",
+    "BUG_CHANNEL": "MANAGE_MESSAGES",
+    "BUG_LOG_CHANNEL": "MANAGE_MESSAGES",
+    "LOG_CHANNEL": "MANAGE_MESSAGES",
+    "DEBUG": true,
+    "WEBSITE_URL": "https://dinhdai.tech", 
+    "RESTART_TIMES": "Các Bố Chào Các Con Nhé",
+    "SHOW_PLAYERS": true
+  }
